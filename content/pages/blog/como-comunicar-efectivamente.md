@@ -4,10 +4,10 @@ date: '2021-10-30'
 thumb_image_alt: Foto de Ketut Subiyanto en Pexels
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: Cómo comunicar tus ideas efectivamente.
   description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
+    Técnicas para compartir tus ideas de manera correcta, de tal modo que todos
+    puedan entenderlas de forma clara.
   extra:
     - name: 'og:type'
       value: article
